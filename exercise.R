@@ -1,1 +1,2 @@
 #Exercise
+y <- 2
